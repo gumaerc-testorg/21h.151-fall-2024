@@ -31,25 +31,25 @@ Note: There are no readings for Sessions 1, 15, and 27.
 
 *Primary Sources*
 
-- \[M\] Mattos, Gilbert L. Chapter 1: Shang Dynasty Oracle-Bone Inscriptions. \[Preview with {{% resource_link "ed140810-b672-4f89-bfb7-375dd3a3f8f6" "Google Books" %}}\]
-- "{{% resource_link "d9ca78fa-f395-4b7a-ab51-e6edb92305ab" "Chinese Oracle Bones (CUL.1,52,155)" %}}." University of Cambridge Digital Library.
+- \[M\] Mattos, Gilbert L. Chapter 1: Shang Dynasty Oracle-Bone Inscriptions. \[Preview with [Google Books](https://www.google.com/books/edition/Hawai_i_Reader_in_Traditional_Chinese_Cu/yZYBEAAAQBAJ?hl=en&gbpv=1)\]
+- "[Chinese Oracle Bones (CUL.1,52,155)](https://cudl.lib.cam.ac.uk/view/MS-CUL-00001-00155/1)." University of Cambridge Digital Library.
 
 *Secondary Sources*
 
-- \[LF\] Chapter 4: Anyang and beyond: Shang and contemporary Bronze Age Cultures.  \[Preview with {{% resource_link "3a67b521-c604-432a-b565-96fbc73c8ee4" "Google Books" %}}\]
-- \[LF\] Chapter 5: Cracking the secret bones: literacy and society in late Shang. \[Preview with {{% resource_link "3a67b521-c604-432a-b565-96fbc73c8ee4" "Google Books" %}}\]
+- \[LF\] Chapter 4: Anyang and beyond: Shang and contemporary Bronze Age Cultures.  \[Preview with [Google Books](https://www.google.com/books/edition/Early_China/TQNaAQAAQBAJ?hl=en&gbpv=1)\]
+- \[LF\] Chapter 5: Cracking the secret bones: literacy and society in late Shang. \[Preview with [Google Books](https://www.google.com/books/edition/Early_China/TQNaAQAAQBAJ?hl=en&gbpv=1)\]
 
 *Optional Textbook*
 
-- \[E\] Chapter 1: The Origins of Chinese Civilization: Neolithic Period to the Western Zhou Dynasty. \[Preview with {{% resource_link "c3ae08bb-3067-4161-ae36-ddfbae84fde9" "Google Books" %}}\]
+- \[E\] Chapter 1: The Origins of Chinese Civilization: Neolithic Period to the Western Zhou Dynasty. \[Preview with [Google Books](https://www.google.com/books/edition/The_Cambridge_Illustrated_History_of_Chi/L5h-EAAAQBAJ?hl=en&gbpv=1)\]
 
 ## Session 3: The Western Zhou (Xīzhōu 西周; c. 1046–771 BCE)
 
 *Primary Sources*
 
-- \[M\] Mattos, Gilbert L. Chapter 2: Shang and Zhou Ritual Bronze Inscriptions. \[Preview with {{% resource_link "ed140810-b672-4f89-bfb7-375dd3a3f8f6" "Google Books" %}}\]
+- \[M\] Mattos, Gilbert L. Chapter 2: Shang and Zhou Ritual Bronze Inscriptions. \[Preview with [Google Books](https://www.google.com/books/edition/Hawai_i_Reader_in_Traditional_Chinese_Cu/yZYBEAAAQBAJ?hl=en&gbpv=1)\]
 - \[M\] Goldin, Paul R. Chapter 4: Milfoil-Divination.
-- "{{% resource_link "daa26cf1-44d3-4307-843b-30bf48450612" "Zhouyi: The Book of Changes" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[Zhouyi: The Book of Changes](https://ctext.org/book-of-changes/yi-jing/zhs)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 
 *Secondary Sources*
 
@@ -64,10 +64,10 @@ Note: There are no readings for Sessions 1, 15, and 27.
 
 - \[M\] Goldin, Paul R. Chapter 5: Heaven’s Mandate.
 - \[M\] Pankenier, David. Chapter 3: Astronomy in Early Chinese Sources.
-- "{{% resource_link "36865fc0-a056-4094-89e2-59992ab4b8d3" "Shang Shu: The Book of Shang" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[Shang Shu: The Book of Shang](https://ctext.org/shang-shu/zh)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 - Durrant, Stephen, Wai-yee Li, and David Schaberg, translators. "Warfare." Chapter 5 in *The* Zuo Tradition / Zuozhuan *Reader: Selections from China's Earliest Narrative History*. University of Washington Press, 2020, pp. 87–88. ISBN: ‎9780295747750.
 - \[M\] Goldin, Paul R. Chapter 6: The *Odes*.
-- "{{% resource_link "670ade80-ca83-4f34-9286-9c9893ca5e46" "The Book of Songs" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[The Book of Songs](https://ctext.org/book-of-poetry/zh)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 
 *Secondary Source*
 
@@ -75,18 +75,18 @@ Note: There are no readings for Sessions 1, 15, and 27.
 
 *Optional Textbook*
 
-- \[E\] Chapter 2: Philosophical Foundations: The Eastern Zhou Period. \[Preview with {{% resource_link "c3ae08bb-3067-4161-ae36-ddfbae84fde9" "Google Books" %}}\]
+- \[E\] Chapter 2: Philosophical Foundations: The Eastern Zhou Period. \[Preview with [Google Books](https://www.google.com/books/edition/The_Cambridge_Illustrated_History_of_Chi/L5h-EAAAQBAJ?hl=en&gbpv=1)\]
 
 ## Session 5: Confucius and the Confucian Movement
 
 *Primary Sources*
 
 - \[D\] Bloom, Irene.  Chapter 3: Confucius and the *Analects,* pp. 44–63. 
-- "{{% resource_link "fdaf50f6-4109-4ff4-8f67-59a6958c6fc7" "The *Analects*" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[The *Analects*](https://ctext.org/analects/zh)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 - \[D\] Chapter 6: The Evolution of the Confucian Tradition in Antiquity, pp. 114–58. 
-- "{{% resource_link "9365489f-e225-4d18-b067-823b9e95ce3e" "Mencius" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[Mencius](https://ctext.org/mengzi/zhs)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 - \[D\] Chapter 6: The Evolution of the Confucian Tradition in Antiquity, pp. 161–64, and 179–83. 
-- "{{% resource_link "4811d892-08fd-4537-8dff-b28d876b3bd9" "Xunzi" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[Xunzi](https://ctext.org/xunzi/zh)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 
 *Secondary Source*
 
@@ -99,12 +99,12 @@ Note: There are no readings for Sessions 1, 15, and 27.
 *Primary Sources*
 
 - \[D\] Chapter 5: The Way of Laozi and Zhuangzi.
-- "{{% resource_link "e5b4e583-7358-4842-8547-5b83babd93ad" "Tao Te Ching" %}}." *(In Chinese).* Daodejing.org.
-- "{{% resource_link "9af5e864-367b-47ac-9035-aa2d6b6cfdd6" "Zhuangzi" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[Tao Te Ching](https://www.daodejing.org/)." *(In Chinese).* Daodejing.org.
+- "[Zhuangzi](https://ctext.org/zhuangzi/zhs)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 - \[D\] Chapter 7: Legalists and Militarists, pp. 190–206.
-- "{{% resource_link "11659380-4172-454e-afb3-fceaded60e53" "Han Feizi" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
-- \[D\] Watson, Burton. Chapter 4: Mozi: Utility, Uniformity, and Universal Love. \[Preview with {{% resource_link "4979a028-148b-43c0-9e14-a130caad60d1" "Google Books" %}}\]
-- "{{% resource_link "f8dd0b42-2c36-413b-ada8-7523f11605a1" "Mozi" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[Han Feizi](https://ctext.org/hanfeizi/zh)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- \[D\] Watson, Burton. Chapter 4: Mozi: Utility, Uniformity, and Universal Love. \[Preview with [Google Books](https://www.google.com/books/edition/Sources_of_Chinese_Tradition/TQN9nwkkXGsC?hl=en&gbpv=1)\]
+- "[Mozi](https://ctext.org/mozi/zhs)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 
 *Secondary Source*
 
@@ -122,7 +122,7 @@ Note: There are no readings for Sessions 1, 15, and 27.
 
 *Optional Textbook*
 
-- \[E\] Chapter 3: The Creation of the Bureaucratic Empire: The Qin and Han Dynasties. \[Preview with {{% resource_link "c3ae08bb-3067-4161-ae36-ddfbae84fde9" "Google Books" %}}\]
+- \[E\] Chapter 3: The Creation of the Bureaucratic Empire: The Qin and Han Dynasties. \[Preview with [Google Books](https://www.google.com/books/edition/The_Cambridge_Illustrated_History_of_Chi/L5h-EAAAQBAJ?hl=en&gbpv=1)\]
 
 ## *Week 5*
 
@@ -132,7 +132,7 @@ Note: There are no readings for Sessions 1, 15, and 27.
 
 - \[D\] Watson, Burton, and Wm. Theodore deBary. Chapter 11: The Economic Order. 
 - \[D\] Watson, Burton. Chapter 12: The Great Han Historians.
-- "{{% resource_link "b4d1a89a-c4f9-497e-8049-fc27316e4cd7" "Salt and Iron" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- "[Salt and Iron](https://ctext.org/yan-tie-lun/zhs)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 
 *Secondary Sources*
 
@@ -141,7 +141,7 @@ Note: There are no readings for Sessions 1, 15, and 27.
 
 ## Session 9: The Eastern Han (Dōnghàn 東漢; 25–220 CE)
 
-Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxin Li" %}}, Simmons University.
+Guest lecture by [Yunxin Li](https://www.simmons.edu/people/yunxin-li), Simmons University.
 
 *Primary Source*
 
@@ -153,26 +153,26 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 *Primary Sources*
 
-- "{{% resource_link "cef21686-1c13-4101-9249-52d22f0a9f7e" "Liu Bei: Short Biography from the Sanguozhi 'Records of the Three Kingdoms' and other historical sources" %}}." Arsinoe Temple Library.
-- "{{% resource_link "3baebb9c-e1a0-4023-9bdd-457561ed1cdf" "Cao Cao: Short Biography from the Sanguozhi 'Records of the Three Kingdoms' and other historical sources" %}}." Arsinoe Temple Library.
-- "{{% resource_link "a5104117-a978-46a4-939c-420408fa3240" "Sun Quan: Short Biography from the Sanguozhi 'Records of the Three Kingdoms' and other historical sources" %}}." Arsinoe Temple Library.
-- "{{% resource_link "9f63e156-cf9c-4e08-830f-5431b4d17c62" "Romance of the Three Kingdoms" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
-- {{% resource_link "2ece36bd-a37a-4ec2-a0e1-87c3d12f9f30" "\"Peace Blossom Spring by Tao Quan: Primary Source Document with Questions (DBQs)\" (PDF)" %}} Asia for Educators, Columbia University.
-- "{{% resource_link "37868654-3e4a-4911-b873-b731afb43dca" "Peace Blossom Spring" %}}." *(In Chinese).* Chinese Text Project.
-- {{% resource_link "35816ac3-295e-4ea9-a5cd-293d61ce3a85" "\"The Ballad of Mulan (Ode of Mulan): Primary Source Document with Questions (DBQs)\" (PDF)" %}} Asia for Educators, Columbia University.
-- "{{% resource_link "756d5bdf-ff34-4217-9488-a8036524d0a6" "The Ballad of Mulan" %}}." *(In Chinese).* Ancient Poetry Network.
+- "[Liu Bei: Short Biography from the Sanguozhi 'Records of the Three Kingdoms' and other historical sources](https://www.arsinoelibrary.org/EPS/articles/liu-bei-short-biography-from-the-sanguozhi-records-of-the-three-kingdoms-and-other-historical-sources/)." Arsinoe Temple Library.
+- "[Cao Cao: Short Biography from the Sanguozhi 'Records of the Three Kingdoms' and other historical sources](https://www.arsinoelibrary.org/EPS/articles/cao-cao-short-biography-from-the-sanguozhi-records-of-the-three-kingdoms-and-other-historical-sources/)." Arsinoe Temple Library.
+- "[Sun Quan: Short Biography from the Sanguozhi 'Records of the Three Kingdoms' and other historical sources](https://www.arsinoelibrary.org/EPS/articles/sun-quan-short-biography-from-the-sanguozhi-records-of-the-three-kingdoms-and-other-historical-sources/)." Arsinoe Temple Library.
+- "[Romance of the Three Kingdoms](https://ctext.org/sanguozhi/zh)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- ["Peace Blossom Spring by Tao Quan: Primary Source Document with Questions (DBQs)" (PDF)](https://afe.easia.columbia.edu/ps/china/taoqian_peachblossom.pdf) Asia for Educators, Columbia University.
+- "[Peace Blossom Spring](https://ctext.org/wiki.pl?if=gb&chapter=945919)." *(In Chinese).* Chinese Text Project.
+- ["The Ballad of Mulan (Ode of Mulan): Primary Source Document with Questions (DBQs)" (PDF)](https://afe.easia.columbia.edu/ps/china/mulan.pdf) Asia for Educators, Columbia University.
+- "[The Ballad of Mulan](https://www.gushiwen.cn/shiwenv_2d6b0c83a500.aspx)." *(In Chinese).* Ancient Poetry Network.
 
 *Optional Textbook*
 
-- \[E\] Chapter 4: Regional Regimes: Buddhism, Aristocracy, and Alien Rulers. \[Preview with {{% resource_link "6c1d1b99-a200-424b-8e90-ee9ecb270679" "Google Books" %}}\]
+- \[E\] Chapter 4: Regional Regimes: Buddhism, Aristocracy, and Alien Rulers. \[Preview with [Google Books](https://www.google.com/books/edition/The_Cambridge_Illustrated_History_of_Chi/sHGdq4rLSTEC?hl=en&gbpv=1)\]
 
 ## Session 11: Buddhism and Religious Daoism
 
 *Primary Sources*
 
 - \[D\] Verellen, Franciscus, Nathan Sivin, et al. Chapter 14: Daoist Religion.
-- Watson, Burton, translator. *The Lotus Sutra*. Columbia University Press, 1993. ISBN: ‎9780231081610. \[Preview with {{% resource_link "5842ad5b-b68b-4346-a8b3-ae696f9f3cf6" "Google Books" %}}\]
-- "{{% resource_link "a1eb983e-9424-44a3-8066-cb6f6b100b7c" "The Lotus Sutra" %}}." *(In Chinese).* Chinese Text Project.
+- Watson, Burton, translator. *The Lotus Sutra*. Columbia University Press, 1993. ISBN: ‎9780231081610. \[Preview with [Google Books](https://www.google.com/books/edition/The_Lotus_Sutra/hKCorSddfYIC?hl=en&gbpv=1)\]
+- "[The Lotus Sutra](https://ctext.org/wiki.pl?if=gb&chapter=608894)." *(In Chinese).* Chinese Text Project.
 
 ## *Week 7*
 
@@ -180,14 +180,14 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 *Primary Sources*
 
-- Johnson, Wallace. *The T'ang Code, Volume I: General Principles*. Princeton University Press, 2019. ISBN: ‎9780691656472. \[Preview with {{% resource_link "03f21861-04e7-48d0-ae39-f31832ea9d3e" "Google Books" %}}\]
-- "{{% resource_link "ccfe4498-9830-493f-b82c-97d1ed4db40e" "Tang Law Commentary" %}}." *(In Chinese).* Chinese Text Project.
-- Ditter, Alexei Kamran, Jessey Choo, Sarah Allen, eds. *Tales from Tang Dynasty China: Selections from the* Taiping Guangji*.* Hackett Publishing Company, Inc., 2017. ISBN: ‎ 9781624666315. \[Preview with {{% resource_link "f315c241-1c09-4d77-ab9b-a5d1ddbb6b0c" "Google Books" %}}\]
-- "{{% resource_link "756581d5-465d-460f-ae1a-2f2eae19b4c8" "Taiping Guangji" %}}." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
+- Johnson, Wallace. *The T'ang Code, Volume I: General Principles*. Princeton University Press, 2019. ISBN: ‎9780691656472. \[Preview with [Google Books](https://www.google.com/books/edition/The_T_ang_Code_Volume_I/fjmNDwAAQBAJ?hl=en&gbpv=1)\]
+- "[Tang Law Commentary](https://ctext.org/wiki.pl?if=gb&res=549614&remap=gb)." *(In Chinese).* Chinese Text Project.
+- Ditter, Alexei Kamran, Jessey Choo, Sarah Allen, eds. *Tales from Tang Dynasty China: Selections from the* Taiping Guangji*.* Hackett Publishing Company, Inc., 2017. ISBN: ‎ 9781624666315. \[Preview with [Google Books](https://www.google.com/books/edition/Tales_from_Tang_Dynasty_China/F34zDwAAQBAJ?hl=en&gbpv=1)\]
+- "[Taiping Guangji](https://ctext.org/taiping-guangji/zhs)." *(In Chinese).* Chinese Philosophy Text Digitalization Project.
 
 *Secondary Source*
 
-- Rothschild, N. Harry. "Introduction: Wu Zhao and Her Pantheon of Female Political Ancestors." *Emperor Wu Zhao and Her Pantheon of Devis, Divinities, and Dynastic Mothers*. Columbia University Press, 2015. ISBN: ‎9780231169387. \[Preview with {{% resource_link "3d148513-767e-405a-8aea-9efce7e52343" "Google Books" %}}\]
+- Rothschild, N. Harry. "Introduction: Wu Zhao and Her Pantheon of Female Political Ancestors." *Emperor Wu Zhao and Her Pantheon of Devis, Divinities, and Dynastic Mothers*. Columbia University Press, 2015. ISBN: ‎9780231169387. \[Preview with [Google Books](https://www.google.com/books/edition/Emperor_Wu_Zhao_and_Her_Pantheon_of_Devi/mHmpBgAAQBAJ?hl=en&gbpv=1)\]
 
 *Optional Secondary Reading*
 
@@ -199,8 +199,8 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 *Primary Sources*
 
-- "{{% resource_link "ccab9077-acde-4334-be9a-58a21028ed52" "300 Tang Poems" %}}." *(In English and Chinese)*. Chinese Text Initiative, University Library, University of Virginia.
-- Bai Ju-Yi. "{{% resource_link "9a4a36f7-cc25-4c77-9236-d05016236173" "The Song of Everlasting Regret" %}}." Poems of Tang Dynasty with English Translations.
+- "[300 Tang Poems](https://cti.lib.virginia.edu/frame.htm)." *(In English and Chinese)*. Chinese Text Initiative, University Library, University of Virginia.
+- Bai Ju-Yi. "[The Song of Everlasting Regret](https://www.musicated.com/syh/TangPoems/EverlastingRegret.htm)." Poems of Tang Dynasty with English Translations.
 
 *Secondary Sources*
 
@@ -213,7 +213,7 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 - \[Z\] Jack W. Chen. Chapter 15: Du Fu: The Poet as Historian.
 - \[Z\] Ao Wang. Chapter 16: Poetry and Literati Friendship: Bai Juyi and Yuan Zhen.
 - \[Z\] Ashmore, Robert. Chapter 17: Li He: Poetry as Obsession.
-- Schafer, Edward H. *The Golden Peaches of Samarkand: A Study of T'ang Exotics.* University of California Press, 2023. ISBN: 9780520341142. \[Preview with {{% resource_link "5097b695-0bde-42b1-8bf0-a29843136c4b" "Google Books" %}}\]
+- Schafer, Edward H. *The Golden Peaches of Samarkand: A Study of T'ang Exotics.* University of California Press, 2023. ISBN: 9780520341142. \[Preview with [Google Books](https://www.google.com/books/edition/_/Eu3QEAAAQBAJ?hl=en&gbpv=1)\]
 
 ## Session 14: End of the Tang
 
@@ -235,8 +235,8 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 *Scrolls*
 
-- "{{% resource_link "90009c8d-7756-4410-909d-cebac0179a62" "Along the River During the Qingming Festival" %}}." This image is in the public domain. Source: Wikimedia Commons.
-- "{{% resource_link "b0b785dc-dffa-4e45-9edf-6898d2592d35" "Annotated Qingming Scroll" %}}." Asia for Educators, Columbia University.
+- "[Along the River During the Qingming Festival](https://commons.wikimedia.org/wiki/File:Alongtheriver_QingMing.jpg)." This image is in the public domain. Source: Wikimedia Commons.
+- "[Annotated Qingming Scroll](https://afe.easia.columbia.edu/song-scroll/song.html)." Asia for Educators, Columbia University.
 
 ## *Week 10*
 
@@ -259,8 +259,8 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 ## Session 18: Song Literati Culture and Neo-Confucianism
 
-- Yang Zin, Barnhart, Richard M., et al. "The Five Dynasties (907–960) and the Song Period (960–1279)." In *Three thousand years of Chinese painting*.  Yale University Press, 1997. ISBN: 9780300094473. \[Preview with {{% resource_link "5cc981eb-d747-400f-ae0d-309313ec6e4d" "Google Books" %}}\]
-- "{{% resource_link "b7e97b38-aeec-4ebc-bc9a-fc093cc66ba4" "37\. Former Red Cliff Rhapsody" %}}." John Thompson on the *Guqin* Silk String Zither.
+- Yang Zin, Barnhart, Richard M., et al. "The Five Dynasties (907–960) and the Song Period (960–1279)." In *Three thousand years of Chinese painting*.  Yale University Press, 1997. ISBN: 9780300094473. \[Preview with [Google Books](https://www.google.com/books/edition/Three_Thousand_Years_of_Chinese_Painting/ZjD_vhUo_GcC?hl=en&gbpv=1)\]
+- "[37\. Former Red Cliff Rhapsody](https://www.silkqin.com/02qnpu/10tgyy/tg37qcbf.htm#reffn)." John Thompson on the *Guqin* Silk String Zither.
 
 *Primary Sources*
 
@@ -288,7 +288,7 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 - \[EC\] Chapter 44: A Mongol Governor.
 - Cahill, James Francis. *Hills Beyond a River: Chinese Painting of the Yuan Dynasty, 1279–1368.* Weatherhill, 1976. ISBN: ‎9780834801202.
 - Schaeffer, Kurtis, Matthew T. Kapstein, and Gray Tuttle, eds. "Mongol Domination and the Yuan Dynasty." In *Sources of  Tibetan Tradition*. Columbia University Press, 2013, pp. 328*–*45\. ISBN: ‎ 9780231135986. 
-- "{{% resource_link "0f73d73b-b84c-407a-9637-9da83fc93756" "Scrolls of the Mongol Invasions of Japan" %}}." Princeton University.
+- "[Scrolls of the Mongol Invasions of Japan](https://digital.princeton.edu/mongol-invasions/)." Princeton University.
 
 *Secondary Sources*
 
@@ -302,12 +302,12 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 *Primary Source*
 
-- "{{% resource_link "0adda616-aae7-4975-94bb-d3e9eba2bdf4" "The Mind Landscape of Xie Youyu (Youyu qiu he 幼輿丘壑 ), ca. 1287" %}}." Princeton University Art Museum.
+- "[The Mind Landscape of Xie Youyu (Youyu qiu he 幼輿丘壑 ), ca. 1287](https://static.artmuseum.princeton.edu/mirador3/?manifest=https://data.artmuseum.princeton.edu/iiif/objects/32688&canvas=https://data.artmuseum.princeton.edu/iiif/objects/32688/canvas/32688-canvas-105637)." Princeton University Art Museum.
 
 *Secondary Sources*
 
-- Polo, Marco. *The Description of the World.* Translated by Sharon Kinoshita. Hackett Publishing Company, Inc., 2016.  ISBN: ‎9781624664373. \[Preview with {{% resource_link "8f18e351-81cd-495f-a0f7-762748c417be" "Google Books" %}}\]
-- Yuán Cháo zájù. {{% resource_link "4eddce65-078e-4442-b96e-77294fc3e34e" "\"Yuan Drama.\" (PDF)" %}}  In *Berkshire Encyclopedia of China*. Berkshire Publishing Group, 2009, pp. 2594–98. ISBN: ‎9780977015948. 
+- Polo, Marco. *The Description of the World.* Translated by Sharon Kinoshita. Hackett Publishing Company, Inc., 2016.  ISBN: ‎9781624664373. \[Preview with [Google Books](https://www.google.com/books/edition/The_Description_of_the_World/ErGgCwAAQBAJ?hl=en&gbpv=1)\]
+- Yuán Cháo zájù. ["Yuan Drama." (PDF)](https://chinaconnectu.com/wp-content/pdf/YuanDrama.pdf)  In *Berkshire Encyclopedia of China*. Berkshire Publishing Group, 2009, pp. 2594–98. ISBN: ‎9780977015948. 
 
 *Optional Textbook*
 
@@ -321,8 +321,8 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 *Secondary Sources*
 
-- "{{% resource_link "9326c17e-4fcd-4060-a6fe-34cf8be38e97" "The Selden Map and the Archipelagos of East and Southeast Asia" %}}." Education About Asia: Online Archives, Association for Asian Studies.
-- "{{% resource_link "7aa88ebe-4676-4011-9b45-e49ee4c0015b" "Zheng He Interactive Map" %}}." The Ages of Exploration, the Mariners' Museum and Park.
+- "[The Selden Map and the Archipelagos of East and Southeast Asia](https://www.asianstudies.org/publications/eaa/archives/the-selden-map-and-the-archipelagos-of-east-and-southeast-asia/)." Education About Asia: Online Archives, Association for Asian Studies.
+- "[Zheng He Interactive Map](https://exploration.marinersmuseum.org/event/zheng-he-interactive-map/)." The Ages of Exploration, the Mariners' Museum and Park.
 
 ## *Week 13*
 
@@ -386,23 +386,23 @@ Guest lecture by {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxi
 
 ## Session 25: A Great Divergence? Qing Economy and Science in Global Terms
 
-- Statman, Alexander. "Introduction." In *A Global Enlightenment: Western Progress and Chinese Science*. University of Chicago Press, 2023. ISBN: ‎ 9780226825762. \[Preview with {{% resource_link "820a9aaf-1c6e-4b52-b565-3e9223a288aa" "Google Books" %}}\]
-- "{{% resource_link "9c5fb513-ecc9-4732-b21b-9322da77b9fe" "Ten Years of Debate on the Origins of the Great Divergence between the Economies of Europe and China during the Era of Mercantilism and Industrialization" %}}." Reviews in History. Institute of Historical Research, School of Advanced Study, University of London.
+- Statman, Alexander. "Introduction." In *A Global Enlightenment: Western Progress and Chinese Science*. University of Chicago Press, 2023. ISBN: ‎ 9780226825762. \[Preview with [Google Books](https://www.google.com/books/edition/A_Global_Enlightenment/d86kEAAAQBAJ?hl=en&gbpv=1)\]
+- "[Ten Years of Debate on the Origins of the Great Divergence between the Economies of Europe and China during the Era of Mercantilism and Industrialization](https://reviews.history.ac.uk/review/1008/)." Reviews in History. Institute of Historical Research, School of Advanced Study, University of London.
 - Start reading *The Story of the Stone* if you have time.
 
 ## *Week 15*
 
 ## Session 26: A Dream of Red Mansions 紅樓夢 and the End of Imperial China
 
-- Cao Xueqin. *The Story of the Stone, Vol. 1: The Golden Days.* Translated by David Hawkes. Penguin Classics, 1974. ISBN: ‎9780140442939. \[Preview with {{% resource_link "0c7ff236-8834-44e5-8d05-d223bddd2232" "Google Books" %}}\]
-- ———. *The Story of the Stone, Vol. 2: The Crab-Flower Club.* Translated by David Hawkes. Penguin Classics, 1977. ISBN: ‎9780140443264. \[Preview with {{% resource_link "4f0d8094-4cc9-487c-86be-976bb09d97ca" "Google Books" %}}\]
-- ———. *The Story of the Stone, Vol. 3: The Warning Voice*. Translated by David Hawkes. Penguin Classics, 1981. ISBN: ‎9780140443707. \[Preview with {{% resource_link "375f90ca-3acd-4aec-9b44-b1bbbc52fae5" "Google Books" %}}\]
-- Cao Xueqin and Gao E. *The Story of the Stone, Vol. 4: The Debt of Tears*. Translated by John Minford. Penguin Classics, 1982. ISBN: ‎9780140443714. \[Preview with {{% resource_link "4f7f24c1-7b6e-40d4-8ee7-1767a66830ce" "Google Books" %}}\]
-- ———. *The Story of the Stone, Vol. 5: The Dreamer Wakes*. Translated by John Minford. Penguin Classics, 1986. ISBN: ‎9780140443721. \[Preview with {{% resource_link "daf11e1c-5da6-43a2-ab77-3810b1143637" "Google Books" %}}\]
+- Cao Xueqin. *The Story of the Stone, Vol. 1: The Golden Days.* Translated by David Hawkes. Penguin Classics, 1974. ISBN: ‎9780140442939. \[Preview with [Google Books](https://www.google.com/books/edition/The_Story_of_the_Stone_The_Golden_Days_V/0U5ILHHIOZgC?hl=en&gbpv=1)\]
+- ———. *The Story of the Stone, Vol. 2: The Crab-Flower Club.* Translated by David Hawkes. Penguin Classics, 1977. ISBN: ‎9780140443264. \[Preview with [Google Books](https://www.google.com/books/edition/The_Story_of_the_Stone_The_Crab_Flower_C/mSu_SyOXvSIC?hl=en&gbpv=1)\]
+- ———. *The Story of the Stone, Vol. 3: The Warning Voice*. Translated by David Hawkes. Penguin Classics, 1981. ISBN: ‎9780140443707. \[Preview with [Google Books](https://www.google.com/books/edition/The_Story_of_the_Stone_The_Warning_Voice/7zaX-G88DJMC?hl=en&gbpv=1)\]
+- Cao Xueqin and Gao E. *The Story of the Stone, Vol. 4: The Debt of Tears*. Translated by John Minford. Penguin Classics, 1982. ISBN: ‎9780140443714. \[Preview with [Google Books](https://www.google.com/books/edition/The_Story_of_the_Stone_The_Debt_of_Tears/Id6qXqk2UOEC?hl=en&gbpv=1)\]
+- ———. *The Story of the Stone, Vol. 5: The Dreamer Wakes*. Translated by John Minford. Penguin Classics, 1986. ISBN: ‎9780140443721. \[Preview with [Google Books](https://www.google.com/books/edition/The_Story_of_the_Stone_The_Dreamer_Wakes/OP4RZ89XNrgC?hl=en&gbpv=1)\]
 
 *Primary Source (in Chinese)*
 
-- {{% resource_link "391df309-fc1b-4b6b-b3e2-214e4c8801f8" "Hongloumeng 紅樓夢" %}}. Chinese Philosophy Text Digitalization Project.
+- [Hongloumeng 紅樓夢](https://ctext.org/hongloumeng/zh). Chinese Philosophy Text Digitalization Project.
 
 ## Session 27: Last Class Discussion and Final Exam Review
 

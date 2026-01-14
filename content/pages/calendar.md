@@ -41,7 +41,7 @@ uid: cfb27cf0-4557-433a-ba18-ff3d394ee9d8
 
 ## Session 9: The Eastern Han (Dōnghàn 東漢; 25–220 CE)
 
-- Guest lecture: {{% resource_link "7651324b-52bf-4efd-b3e0-40b345bb52ee" "Yunxin Li" %}}, Simmons University
+- Guest lecture: [Yunxin Li](https://www.simmons.edu/people/yunxin-li), Simmons University
 - Assignment due: {{% resource_link "3c275e5b-0908-463c-9686-74691a3b9514" "Week 5 discussion post" %}}
 
 ## *Week 6*

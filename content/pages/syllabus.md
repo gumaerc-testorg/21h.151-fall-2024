@@ -25,12 +25,12 @@ With China playing a central role in global affairs today, an understanding of t
 
 *Textbook*
 
-- Ebrey, Patricia B. *Cambridge Illustrated History of China.* 3<sup>rd</sup> ed. Cambridge University Press, 2022. ISBN: ‎9781009151443. \[Preview with {{% resource_link "c3ae08bb-3067-4161-ae36-ddfbae84fde9" "Google Books" %}}\]
+- Ebrey, Patricia B. *Cambridge Illustrated History of China.* 3<sup>rd</sup> ed. Cambridge University Press, 2022. ISBN: ‎9781009151443. \[Preview with [Google Books](https://www.google.com/books/edition/The_Cambridge_Illustrated_History_of_Chi/L5h-EAAAQBAJ?hl=en&gbpv=1)\]
 
 *Required Sourcebooks* 
 
-- Ebrey, Patricia B., ed. *Chinese Civilization: A Sourcebook.* 2<sup>nd</sup> ed. Free Press, 1993. ISBN: ‎9780029087527. \[Preview with {{% resource_link "d40639b6-267b-4f28-8b1e-ae5d753a706f" "Google Books" %}}\]
-- Mair, Victor H., Nancy S. Steinhardt, and Paul R. Goldin, eds. *Hawai’i Reader in Traditional Chinese Culture.* University of Hawaii Press, 2005. ISBN: ‎9780824827854. \[Preview with {{% resource_link "ed140810-b672-4f89-bfb7-375dd3a3f8f6" "Google Books" %}}\]
+- Ebrey, Patricia B., ed. *Chinese Civilization: A Sourcebook.* 2<sup>nd</sup> ed. Free Press, 1993. ISBN: ‎9780029087527. \[Preview with [Google Books](https://www.google.com/books/edition/Chinese_Civilization/CUcdH6opOlcC?hl=en&gbpv=1)\]
+- Mair, Victor H., Nancy S. Steinhardt, and Paul R. Goldin, eds. *Hawai’i Reader in Traditional Chinese Culture.* University of Hawaii Press, 2005. ISBN: ‎9780824827854. \[Preview with [Google Books](https://www.google.com/books/edition/Hawai_i_Reader_in_Traditional_Chinese_Cu/yZYBEAAAQBAJ?hl=en&gbpv=1)\]
 
 Other readings can be found in the {{% resource_link "4e6faa8b-04d9-4713-9da9-cc281215a623" "Readings" %}} section.
 
@@ -80,9 +80,9 @@ For detailed information on the activities above, see the {{% resource_link "0af
 
 *Plagiarism and Citation*
 
-Students are required to review, understand, and abide by the university policy on plagiarism: {{% resource_link "2abe45da-caa4-4741-9403-403a0392e09c" "Avoiding Plagiarism" %}}. 
+Students are required to review, understand, and abide by the university policy on plagiarism: [Avoiding Plagiarism](https://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/). 
 
-Students making use of {{% resource_link "b56b305e-36c4-40ba-988a-02d4d3fb516b" "ChatGPT" %}} must cite it as a source by providing the prompt fed into the engine and a summary of the content generated in response.
+Students making use of [ChatGPT](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=DEPT_SEM_Google_Brand_Acquisition_NAMER_US_Consumer_CPA_BAU_Mix&utm_term=chat%20gpt&gad_source=1&gclid=EAIaIQobChMIluSdyIbijAMVwm1HAR2ozCLpEAAYASAAEgJ50_D_BwE) must cite it as a source by providing the prompt fed into the engine and a summary of the content generated in response.
 
 ## Intended Learning Outcomes
 
